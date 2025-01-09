@@ -1,5 +1,1 @@
-# demo
-this is my first repo 
-<br>
-
-author-Danish nadaf 
+Landing Page Clone for Zerodha | HTML, CSS 
